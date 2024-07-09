@@ -1126,7 +1126,7 @@ live_loop :pattern do
 
 	sample :drum_cymbal_open if OpenHiHat.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/Clap [cadet].wav" if Clap.look == 1
+	sample "Clap.wav" if Clap.look == 1
 
 	sample :drum_bass_hard if BassDrum.look == 1
 
@@ -1149,7 +1149,7 @@ live_loop :pattern do
 
 	sample :drum_cymbal_open if OpenHiHat.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/Clap [cadet].wav" if Clap.look == 1
+	sample "Clap.wav" if Clap.look == 1
 
 	sample :drum_bass_hard if BassDrum.look == 1
 
@@ -1172,7 +1172,7 @@ live_loop :pattern do
 
 	sample :drum_cymbal_open if OpenHiHat.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/Clap [cadet].wav" if Clap.look == 1
+	sample "Clap.wav" if Clap.look == 1
 
 	sample :drum_bass_hard if BassDrum.look == 1
 
@@ -1196,9 +1196,9 @@ live_loop :pattern do
 
 	sample :drum_snare_soft if SnareDrum.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/Clap [cadet].wav" if Clap.look == 1
+	sample "Clap.wav" if Clap.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/tambourine-bright.wav" if Tambourine.look == 1
+	sample "Tambourine.wav" if Tambourine.look == 1
 
 	sample :drum_bass_hard if BassDrum.look == 1
 
@@ -1224,7 +1224,7 @@ live_loop :pattern do
 
 	sample :drum_snare_soft if SnareDrum.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/Clap [cadet].wav" if Clap.look == 1
+	sample "Clap.wav" if Clap.look == 1
 
 	sample :drum_bass_hard if BassDrum.look == 1
 
@@ -1250,7 +1250,7 @@ live_loop :pattern do
 
 	sample :drum_snare_soft if SnareDrum.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/tambourine-bright.wav" if Tambourine.look == 1
+	sample "Tambourine.wav" if Tambourine.look == 1
 
 	sample :drum_bass_hard if BassDrum.look == 1
 
@@ -1274,7 +1274,7 @@ live_loop :pattern do
 
 	sample :drum_snare_soft if SnareDrum.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/Clap [cadet].wav" if Clap.look == 1
+	sample "Clap.wav" if Clap.look == 1
 
 	sample :drum_cowbell if Cowbell.look == 1
 
@@ -1302,7 +1302,7 @@ live_loop :pattern do
 
 	sample :drum_snare_soft if SnareDrum.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/Clap [cadet].wav" if Clap.look == 1
+	sample "Clap.wav" if Clap.look == 1
 
 	sample :drum_bass_hard if BassDrum.look == 1
 
@@ -1326,7 +1326,7 @@ live_loop :pattern do
 
 	sample :drum_snare_soft if SnareDrum.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/Clap [cadet].wav" if Clap.look == 1
+	sample "Clap.wav" if Clap.look == 1
 
 	sample :drum_cowbell if Cowbell.look == 1
 
@@ -1354,7 +1354,7 @@ live_loop :pattern do
 
 	sample :drum_snare_soft if SnareDrum.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/Clap [cadet].wav" if Clap.look == 1
+	sample "Clap.wav" if Clap.look == 1
 
 	sample :drum_bass_hard if BassDrum.look == 1
 
@@ -1380,7 +1380,7 @@ live_loop :pattern do
 
 	sample :drum_snare_soft if SnareDrum.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/Clap [cadet].wav" if Clap.look == 1
+	sample "Clap.wav" if Clap.look == 1
 
 	sample :drum_bass_hard if BassDrum.look == 1
 
@@ -1403,7 +1403,7 @@ live_loop :pattern do
 
 	sample :drum_snare_soft if SnareDrum.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/tambourine-bright.wav" if Tambourine.look == 1
+	sample "Tambourine.wav" if Tambourine.look == 1
 
 	sample :drum_bass_hard if BassDrum.look == 1
 
@@ -1429,7 +1429,7 @@ live_loop :pattern do
 
 	sample :drum_snare_soft if SnareDrum.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/Clap [cadet].wav" if Clap.look == 1
+	sample "Clap.wav" if Clap.look == 1
 
 	sample :drum_bass_hard if BassDrum.look == 1
 
@@ -1484,7 +1484,7 @@ live_loop :pattern do
 
 	sample :drum_snare_soft if SnareDrum.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/tambourine-bright.wav" if Tambourine.look == 1
+	sample "Tambourine.wav" if Tambourine.look == 1
 
 	sample :drum_bass_hard if BassDrum.look == 1
 
@@ -1573,7 +1573,7 @@ live_loop :pattern do
 
 	sample :drum_snare_soft if SnareDrum.look == 1
 
-	sample "C:/Users/Vinod/Documents/BespokeSynth/drums/808kit/Clap/tambourine-bright.wav" if Tambourine.look == 1
+	sample "Tambourine.wav" if Tambourine.look == 1
 
 	sample :drum_bass_hard if BassDrum.look == 1
 
