@@ -1,5 +1,5 @@
 import re
-path = r'C:\Users\Vinod\Desktop\DesktopStore\music\drums\Pocket_Operations_text_copied.txt'
+path = r'Pocket_Operations_text_copied.txt'
 
 instruments = {"BD" : "Bass Drum",  "SN" : "Snare", "LT" : "Low Tom",  "RS" : "Rimshot", "MT" : "Medium Tom",  "CB" : "Cowbell", "HT" : "High Tom",  "CY" : "Cymbal", "CL" : "Hand Clap",  "OH" : "Open High Hat", "SH" : "Shaker",  "CH" : "Closed High Hat"}
 
