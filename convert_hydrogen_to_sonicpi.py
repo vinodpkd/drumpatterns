@@ -2,7 +2,7 @@ from xml.dom import minidom
 import os
 import numpy as np
 
-path = r"C:\Users\Vinod\Desktop\DesktopStore\music\drums\hydrogen\drum_fills\02.h2song"
+path = r"path\to\drum_fills\02.h2song"
 dom = minidom.parse(path)
 
 instrumentList = dom.getElementsByTagName('instrumentList')
@@ -74,7 +74,7 @@ for pattern in elements[:no_of_patterns]:
     k = k + 1
 
 ##print(wave_files_involved)
-path = r'C:/Program Files/Hydrogen/data/drumkits/GMRockKit/'
+path = r'path/to/GMRockKit/'
 
 print("use_bpm 80")
 
